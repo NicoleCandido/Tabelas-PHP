@@ -1,0 +1,13 @@
+tr.clara {
+    background-color: blueviolet;
+}
+tr.escura {
+    background-color: blue;
+}
+
+#table {
+    position: relative;
+    margin-left: 40%;
+    margin-top: 10%;
+    border-color: olivedrab;
+}
