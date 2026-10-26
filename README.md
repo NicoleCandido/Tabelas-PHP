@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="tabela.png" alt="Prévia da tabela de parcelas" width="520" />
+  <img src="Tabela.png" alt="Prévia da tabela de parcelas" width="520" />
 </p>
 
 ---
